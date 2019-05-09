@@ -5,7 +5,7 @@
 ## Run locally
 
 1. Install [Node.js and npm](https://nodejs.org/)
-1. Run `git clone https://github.com/ywdeng/wp19-node-09-order.git`
+1. Run `git clone https://github.com/ywdeng/wp19-node-11-order.git`
 1. Run `cd wp19-node-11-order`
 1. Run `npm install`
 1. Run `npm run test`
