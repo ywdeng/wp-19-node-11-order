@@ -1,9 +1,9 @@
 {
-  "name": "01-order",
+  "name": "wp19-node-11-order",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "test": "set DEBUG=:01-order* & nodemon ./bin/www",
+    "test": "set DEBUG=wp19-node-11-order:* & nodemon ./bin/www",
     "start": "node ./bin/www"
   },
   "dependencies": {
